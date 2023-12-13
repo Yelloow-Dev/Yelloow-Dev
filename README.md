@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yellow</h1>
-- 💬 Ask me about **Java** -> [ "anything" ] , **Javascript** => ["Almost anything"]
+- 💬 Ask me about Java -> [ "anything" ] , Javascript => ["Almost anything"]
 
 
 <div> <a href="https://github.com/Yelloow-Dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
